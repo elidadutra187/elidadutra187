@@ -191,3 +191,10 @@ Specialized AI agents for workflows
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%"/>
 </p>
+
+<div align="center">
+  <strong>φ</strong>
+  <br />
+  <sub>Built and maintained by <a href="https://github.com/elidadutra187">Élida Dutra</a>.</sub>
+</div>
+
