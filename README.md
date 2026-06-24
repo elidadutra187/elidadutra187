@@ -46,11 +46,11 @@ Copywriting · branding · social content · campaign assets · product storytel
 | Project | What it solves | Stack / area |
 |---|---|---|
 | [SEO Bulk Generator](https://github.com/elidadutra187/seo-bulk-generator) | Generates SEO product descriptions at scale for large e-commerce catalogs. | Python · Claude API · JSON/CSV · SEO |
+| [Meta Ads Automation](https://github.com/elidadutra187/meta-ads-automation) | Local AI-assisted system for Meta Ads campaign support, copy generation and performance monitoring. | Python · Meta Ads · Ollama · MCP |
 | [n8n E-commerce Automations](https://github.com/elidadutra187/n8n-ecommerce-automations) | Workflow templates for e-commerce operations, alerts, catalog sync and customer flows. | n8n · APIs · WhatsApp · E-commerce |
 | [WhatsApp CRM Flows](https://github.com/elidadutra187/whatsapp-crm-flows) | CRM-ready WhatsApp flow templates for lead qualification, support and follow-up. | CRM · WhatsApp Business · Mermaid |
 | [Growth Metrics Toolkit](https://github.com/elidadutra187/growth-metrics-toolkit) | Practical calculators for marketing and growth metrics such as CAC, ROAS, LTV and funnel conversion. | Python · Growth analytics |
 | [SKU Image Sync](https://github.com/elidadutra187/SKU-Image-Sync) | Syncs product images with Nuvemshop using SKU as the operational key. | Node.js · Nuvemshop API · Render |
-| [Meta Ads Automation](https://github.com/elidadutra187/meta-ads-automation) | Local AI-assisted system for Meta Ads campaign support, copy generation and performance monitoring. | Python · Meta Ads · Ollama · MCP |
 
 ---
 
